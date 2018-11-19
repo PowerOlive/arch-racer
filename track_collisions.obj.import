@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/track_collisions.obj-932e15a50465d6181b22658b8468f04b.mesh"
+
+[deps]
+
+files=[ "res://.import/track_collisions.obj-932e15a50465d6181b22658b8468f04b.mesh" ]
+
+source_file="res://track_collisions.obj"
+dest_files=[ "res://.import/track_collisions.obj-932e15a50465d6181b22658b8468f04b.mesh", "res://.import/track_collisions.obj-932e15a50465d6181b22658b8468f04b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

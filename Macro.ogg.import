@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Macro.ogg-7fd3ce4a09444e651600e1eafec5d86a.oggstr"
+
+[deps]
+
+source_file="res://Macro.ogg"
+dest_files=[ "res://.import/Macro.ogg-7fd3ce4a09444e651600e1eafec5d86a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
