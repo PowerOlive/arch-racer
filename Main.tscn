@@ -75,7 +75,7 @@ use_filter = false
 font_data = ExtResource( 6 )
 _sections_unfolded = [ "Font", "Settings" ]
 
-[node name="World" type="Node" index="0"]
+[node name="World" type="Node"]
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." index="0"]
 
